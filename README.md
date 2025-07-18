@@ -8,6 +8,14 @@ A simple Flutter application that displays a random quote from a predefined list
 *   **Predefined Quote List:** Quotes are sourced from an internal list within the application.
 *   **Simple User Interface:** A clean and intuitive design focused on displaying quotes.
 
+## Screenshot
+
+Here's a screenshot of the application:
+
+| Intial State | Quote One | Quote Two |
+| :---: | :---: | :---: |
+| <img src="screenshots/initial_state.png" alt="App Login Page" width="250"/> | <img src="screenshots/quote1.png" alt="App Login Page" width="250"/> | <img src="screenshots/quote2.png" alt="App Login Page" width="250"/> |
+
 ## How it Works
 
 The application's core logic resides in the `lib/main.dart` file. It maintains a list of strings, each representing a quote. When the floating action button is pressed, a random quote is selected from this list and displayed on the screen.
