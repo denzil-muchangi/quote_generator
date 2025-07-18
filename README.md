@@ -10,7 +10,7 @@ A simple Flutter application that displays a random quote from a predefined list
 
 ## Screenshot
 
-Here's a screenshot of the application:
+Here's screenshots of the application:
 
 | Intial State | Quote One | Quote Two |
 | :---: | :---: | :---: |
