@@ -1,6 +1,16 @@
-# quote_generator
+# Quote Generator App
 
-A new Flutter project.
+A simple Flutter application that displays a random quote from a predefined list upon a button press.
+
+## Features
+
+*   **Random Quote Display:** Get a new inspiring quote every time you tap the button.
+*   **Predefined Quote List:** Quotes are sourced from an internal list within the application.
+*   **Simple User Interface:** A clean and intuitive design focused on displaying quotes.
+
+## How it Works
+
+The application's core logic resides in the `lib/main.dart` file. It maintains a list of strings, each representing a quote. When the floating action button is pressed, a random quote is selected from this list and displayed on the screen.
 
 ## Getting Started
 
